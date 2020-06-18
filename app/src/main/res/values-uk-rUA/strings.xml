@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Client\'s portrait</string>
+    <string name="write_your_login">Напишіть ваш логін</string>
+    <string name="welcome">Вітаю</string>
+    <string name="sign_up_form">Форма реєстрації</string>
+    <string name="sign_up">Зареєструватися</string>
+    <string name="sign_in">Увійти</string>
+    <string name="repeat_password">Повторить пароль</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логін</string>
+    <string name="last_name">Призвіще</string>
+    <string name="first_name">Ім\'я</string>
+    <string name="email">Email</string>
+    <string name="do_not_have_an_account">Ви ще не маєте аккаунта?</string>
+    <string name="main_menu">Головне меню</string>
+    <string name="your_profile">Ваш профіль</string>
+    <string name="sign_out">Вийти</string>
+    <string name="back">Назад</string>
+    <string name="name">Iм\'я</string>
+    <string name="money_spent">Витраченi грошi</string>
+    <string name="status">Статус</string>
+    <string name="role">Роль</string>
+    <string name="title">Назва</string>
+    <string name="cost">Вартiсть</string>
+    <string name="was_bought">Було куплено:</string>
+    <string name="popular_products">Популярнi товари</string>
+    <string name="create">Створити</string>
+    <string name="create_business">Створити бiзнес</string>
+    <string name="all_businesses">Всi бiзнеси</string>
+</resources>

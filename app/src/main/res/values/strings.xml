@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Client\'s portrait</string>
+    <string name="password">Password</string>
+    <string name="write_your_login">Write your login</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign in</string>
+    <string name="do_not_have_an_account">Do not have an account?</string>
+    <string name="sign_up_form">Sign up form</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="main_menu">Main menu</string>
+    <string name="sign_out">Sign out</string>
+    <string name="your_profile">Your profile</string>
+    <string name="back">Back</string>
+    <string name="name">Name</string>
+    <string name="money_spent">Money spent</string>
+    <string name="status">Status</string>
+    <string name="role">Role</string>
+    <string name="title">Title</string>
+    <string name="cost">Cost</string>
+    <string name="was_bought">Was bought:</string>
+    <string name="popular_products">Popular products</string>
+    <string name="create">Create</string>
+    <string name="create_business">Create business</string>
+    <string name="all_businesses">All businesses</string>
+</resources>
